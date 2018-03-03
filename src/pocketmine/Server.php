@@ -278,7 +278,7 @@ class Server{
 	/**
 	 * @return string
 	 */
-	public function getPocketMineVersion() : string{
+	public function getLikeMPVersion() : string{
 		return \pocketmine\VERSION;
 	}
 
@@ -1426,7 +1426,7 @@ class Server{
 
 			$this->console = new CommandReader();
 
-			$version = new VersionString($this->getPocketMineVersion());
+			$version = new VersionString($this->getLikeMPVersion());
 
 			$this->logger->info("Loading pocketmine.yml...");
 			if(!file_exists($this->dataPath . "pocketmine.yml")){
