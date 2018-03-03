@@ -10,11 +10,13 @@ A Server SoftWare LikeMP is a fork of [pmmp](https://github.com/pmmp/PocketMine-
 
 ## Finished & Plan
  - [x] 1.2.10
- - [x] FireWorks
+ - [x] FireWorks (Credits: [TeaSpoon](https://github.com/CortexPE/TeaSpoon)) 
  - [ ] Armor Stand
  - [x] Beacons
- - [x] Boats
+ - [x] Boats (Credits: [TeaSpoon](https://github.com/CortexPE/TeaSpoon)) 
  - [x] UI
  - [x] Elytra
- - [ ] EnchantmentTable
+ - [x] EnchantmentTable
  - [ ] Entity Behaviors (MobAI)
+ - [x] Many Items (Credits: [TeaSpoon](https://github.com/CortexPE/TeaSpoon)) 
+ - [x] Entitys (Credits: [TeaSpoon](https://github.com/CortexPE/TeaSpoon)) 
